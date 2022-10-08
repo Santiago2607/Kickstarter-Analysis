@@ -1,11 +1,11 @@
-##FIRST CAMPAIGN PROJECT
+# FIRST CAMPAIGN PROJECT
 
-##Overview
+## Overview
 
 The purpose of this analysis is to be able to give Louise, an up-and-coming playwright, the confidence and knowledge, based on analysis and research, 
 that she needs to be ready for launching her first fundraising campaign that will help her do her play, "Fever".
 
-##Analysis and Challenges
+## Analysis and Challenges
 
 In order to help Louise, we researched a database of plays from 2009 to 2017 where we identified and analyzed their goals and pledges in terms of money, as well as their final outcome based on 
 additional characteristics such as date of launch, country, and category.
@@ -26,7 +26,7 @@ In addition to the reviews we got before with the pivot tables, a challenge we f
 how valuable the number of backers was in order to succeed. For a beginner in a new field, just like Louise, the number of backers can be of great importance, however, based on the database we were able to show that regardless of the number of backers,
 a play can be totally successful. 
 
-##Conclusion and Recommendations 
+## Conclusion and Recommendations 
 
 Based on the chart of Theater Outcomes by Launch Date, we can conclude that the worst time of the year to launch a play is between April to August, having a rate of 50% and more of failed outcomes.
 Along with this, another conclusion we can get from this chart is that people started to get more interested in plays after 2012 until now, 
