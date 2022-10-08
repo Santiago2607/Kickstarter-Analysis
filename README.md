@@ -15,12 +15,12 @@ and to focus on how much money the most successful plays pointed to taking into 
 
 For this, we created a pivot table that shows that the most successful plays were launched between the months of May to July.
 
-![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png.png](Theater_Outcomes_vs_Launch.png.png)
 
 Then, we created another table that represents how many plays successfully achieved their goals, monetarily speaking, 
 standing among all of them the plays whose goals were $15,000 or less. 
 
-![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png.png](Outcomes_vs_Goals.png.png)
 
 In addition to the reviews we got before with the pivot tables, a challenge we faced during this analysis was to determine 
 how valuable the number of backers was in order to succeed. For a beginner in a new field, just like Louise, the number of backers can be of great importance, however, based on the database we were able to show that regardless of the number of backers,
